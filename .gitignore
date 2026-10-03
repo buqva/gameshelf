@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.plasmoid
+build/
+
+# editor swap/backup files
+.*.sw[a-p]
+*~
+
+# design notes and scratch docs, kept out of the published repo
+docs/

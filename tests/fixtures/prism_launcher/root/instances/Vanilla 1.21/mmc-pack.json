@@ -1,0 +1,20 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 3",
+            "cachedVersion": "3.3.3",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "org.lwjgl3",
+            "version": "3.3.3"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedVersion": "1.21",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "1.21"
+        }
+    ],
+    "formatVersion": 1
+}

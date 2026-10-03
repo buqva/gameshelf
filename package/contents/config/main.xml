@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <!-- Interpreter used to run the bundled backend. Advanced: only needs
+         changing where python3 is not on PATH for the Plasma session. -->
+    <entry name="pythonPath" type="String">
+      <default>python3</default>
+    </entry>
+
+    <!-- The "providers" object from plan section 9, serialized as JSON.
+         The Providers config page owns this; nothing else writes it. -->
+    <entry name="providerConfig" type="String">
+      <default>{}</default>
+    </entry>
+
+    <entry name="favorites" type="StringList">
+      <default></default>
+    </entry>
+
+    <entry name="hiddenGames" type="StringList">
+      <default></default>
+    </entry>
+
+    <entry name="sortMode" type="String">
+      <default>recent</default>
+    </entry>
+
+    <entry name="favoritesFirst" type="Bool">
+      <default>true</default>
+    </entry>
+
+    <entry name="tileSize" type="Int">
+      <default>120</default>
+    </entry>
+
+    <entry name="tileStyle" type="String">
+      <default>portrait</default>
+    </entry>
+
+    <entry name="showTitles" type="Bool">
+      <default>false</default>
+    </entry>
+
+    <entry name="closeOnLaunch" type="Bool">
+      <default>true</default>
+    </entry>
+
+    <entry name="showProviderBadge" type="Bool">
+      <default>true</default>
+    </entry>
+
+    <!-- The store a Heroic game came from (Epic, GOG, Amazon, sideloaded), in
+         the tile's opposite corner. Heroic is one provider over four stores, so
+         its launcher badge alone does not say which. -->
+    <entry name="showStoreBadge" type="Bool">
+      <default>true</default>
+    </entry>
+
+    <!-- The row of launcher/store filter chips above the grid. Off hides the
+         row and clears any filter it was applying. -->
+    <entry name="showFilterBar" type="Bool">
+      <default>true</default>
+    </entry>
+
+    <!-- Pins a tile for each detected launcher (Steam, Heroic, ...) ahead of the
+         games, so the launcher itself can be opened from the same grid. -->
+    <entry name="showLauncherTiles" type="Bool">
+      <default>true</default>
+    </entry>
+
+    <entry name="panelIcon" type="String">
+      <default>input-gaming</default>
+    </entry>
+
+    <!-- Adds "Copy game key" to a tile's context menu. For bug reports; off by
+         default so the menu stays short. -->
+    <entry name="showAdvancedActions" type="Bool">
+      <default>false</default>
+    </entry>
+  </group>
+</kcfg>

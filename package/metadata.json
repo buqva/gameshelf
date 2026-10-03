@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Id": "io.github.buqva.gameshelf",
+        "Name": "Game Shelf",
+        "Description": "Every installed game from Steam, Heroic and Lutris in one grid",
+        "Icon": "input-gaming",
+        "Version": "0.1.0",
+        "License": "GPL-2.0-or-later",
+        "Category": "Games",
+        "Website": "https://github.com/buqva/gameshelf",
+        "BugReportUrl": "https://github.com/buqva/gameshelf/issues",
+        "Authors": [
+            {
+                "Name": "buqva"
+            }
+        ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

@@ -1,0 +1,52 @@
+{
+ "games": [
+  {
+   "app_name": "1207658855",
+   "title": "Master of Magic Classic",
+   "runner": "gog",
+   "is_installed": true,
+   "art_square": "https://images.gog.com/34c0808fc9aca6e7d71c19889d08cbbba90a42ff4847053301d81f6a7def49d0.jpg?namespace=gamesdb",
+   "art_cover": "https://images.gog.com/cf7468541cb35e5baf3b5dcf4e63873e4a0285dfc66d8d68d4d2b9c1f6955c3b.jpg?namespace=gamesdb",
+   "install": {
+    "is_dlc": false
+   },
+   "folder_name": ""
+  },
+  {
+   "app_name": "2056019722",
+   "title": "House Party",
+   "runner": "gog",
+   "is_installed": false,
+   "art_square": "https://images.gog.com/2caef2749321d508bd25bc0d991209bb7b667198b38deb3379eb413dcc1ca459.jpg?namespace=gamesdb",
+   "art_cover": "https://images.gog.com/a4a3ef46bd34d4533db3a05492d8da7acefb27f9b0b160fc2976f9bb42e968b3.jpg?namespace=gamesdb",
+   "install": {
+    "is_dlc": false
+   },
+   "folder_name": ""
+  },
+  {
+   "app_name": "1207659723",
+   "title": "Flight of the Amazon Queen",
+   "runner": "gog",
+   "is_installed": false,
+   "art_square": "https://images.gog.com/6c0ca4ae83c3dd59b59c9ea854a8ca34c42255243f571fae50b9fafe0ff9a0c6.jpg?namespace=gamesdb",
+   "art_cover": "https://images.gog.com/ee1d11ebe03db365116050f683de96053bcc71d54592678943f30385a5741263.jpg?namespace=gamesdb",
+   "install": {
+    "is_dlc": false
+   },
+   "folder_name": "Flight of the Amazon Queen"
+  },
+  {
+   "app_name": "gog-redist",
+   "title": "Galaxy Common Redistributables",
+   "runner": "gog",
+   "is_installed": true,
+   "art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png",
+   "art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+   "install": {
+    "is_dlc": true
+   }
+  }
+ ],
+ "__timestamp": 0
+}

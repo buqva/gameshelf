@@ -1,0 +1,12 @@
+{
+ "sideloadAppOne": {
+  "firstPlayed": "2026-09-19T07:32:10.348Z",
+  "lastPlayed": "2026-09-19T07:33:43.469Z",
+  "totalPlayed": 42
+ },
+ "sideloadAppTwo": {
+  "firstPlayed": "2026-09-20T11:02:27.062Z",
+  "lastPlayed": "2026-09-20T11:03:21.829Z",
+  "totalPlayed": 0
+ }
+}

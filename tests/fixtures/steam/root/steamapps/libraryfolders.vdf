@@ -1,0 +1,36 @@
+"libraryfolders"
+{
+	"0"
+	{
+		"path"		"__ROOT__"
+		"label"		""
+		"contentid"		"1111111111111111111"
+		"totalsize"		"0"
+		"apps"
+		{
+			"1091500"		"91231172278"
+			"228980"		"220447284"
+		}
+	}
+	"1"
+	{
+		"path"		"__LIB2__"
+		"label"		""
+		"contentid"		"2222222222222222222"
+		"totalsize"		"1000186310656"
+		"apps"
+		{
+			"427520"		"4844866835"
+		}
+	}
+	"2"
+	{
+		"path"		"/nonexistent/unmounted/SteamLibrary"
+		"label"		""
+		"contentid"		"3333333333333333333"
+		"totalsize"		"500104687616"
+		"apps"
+		{
+		}
+	}
+}

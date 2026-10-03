@@ -1,0 +1,18 @@
+{
+	"installed": [
+		{
+			"platform": "windows",
+			"executable": "",
+			"install_path": "/games/GOG/Flight of the Amazon Queen",
+			"install_size": "260.03 MiB",
+			"is_dlc": false,
+			"version": "1.0",
+			"appName": "1207659723",
+			"installedDLCs": [],
+			"language": "en-US",
+			"versionEtag": "\"ffb4a522e8809b1397c7db2ca9defcc1\"",
+			"buildId": "51156436598719469",
+			"pinnedVersion": false
+		}
+	]
+}

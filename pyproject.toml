@@ -1,0 +1,5 @@
+# Test configuration only. The backend itself has no build step and no
+# dependencies beyond the standard library.
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["package/contents/code/backend", "."]

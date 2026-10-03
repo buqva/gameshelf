@@ -1,0 +1,45 @@
+{
+ "library": [
+  {
+   "app_name": "0006475a83f143ba807174654bc09d38",
+   "title": "HOT WHEELS UNLEASHED\u2122",
+   "runner": "legendary",
+   "is_installed": true,
+   "art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HOTWHEELSUNLEASHED_MilestoneSrl_S2_1200x1600-30ec276e4019296d3efd50d5b6ffe1bc",
+   "art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HOTWHEELSUNLEASHED_MilestoneSrl_S1_2560x1440-fcf8a60bb23c64a7f3d0b2ce81334087",
+   "install": {
+    "install_size": "12345",
+    "is_dlc": false,
+    "platform": "Windows"
+   },
+   "folder_name": "HOTWHEELSUNLEASHED"
+  },
+  {
+   "app_name": "002b00085aeb49b1a3f3c42e3f918f2f",
+   "title": "City of Gangsters",
+   "runner": "legendary",
+   "is_installed": false,
+   "art_square": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-offer-19f2l.jpg",
+   "art_cover": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-offer-1b4a7.jpg",
+   "install": {
+    "install_size": "0",
+    "is_dlc": false
+   },
+   "folder_name": "CityofGangsters"
+  },
+  {
+   "app_name": "028eaf5aa1bf4867b4bf163303d338d3",
+   "title": "ARK The Center",
+   "runner": "legendary",
+   "is_installed": false,
+   "art_square": "https://cdn1.epicgames.com/ark/item/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg",
+   "art_cover": "https://cdn1.epicgames.com/ark/item/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-89babcad6baf67d8543742d8de919db2.jpg",
+   "install": {
+    "install_size": "0",
+    "is_dlc": true
+   },
+   "folder_name": "ARKCenter"
+  }
+ ],
+ "__timestamp": 0
+}
